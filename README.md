@@ -1,4 +1,4 @@
 # gitboard
 First Github
-my First Github story
+my First Github
 Edited
